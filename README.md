@@ -4,6 +4,10 @@ An AI-powered support copilot built to handle common SaaS support questions usin
 
 This project was created as a hands-on learning build to explore how modern AI application components fit together in a realistic workflow. It combines FastAPI, Azure AI Search, LangGraph, LangSmith, Azure AI Foundry, Docker, Azure Container Registry, Azure Container Apps, and a lightweight frontend into one end-to-end system.
 
+## Architecture Diagram
+
+![Enterprise Support Copilot Architecture](screenshots/architecture-diagram.png)
+
 The copilot is designed to answer support questions related to:
 
 - login and account access
