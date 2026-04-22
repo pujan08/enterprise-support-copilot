@@ -1,0 +1,16 @@
+Login and Account Access FAQ
+
+Q: I forgot my password. What should I do?
+A: Customers who forgot their password should use the password reset flow first. If the reset email does not arrive, check spam or junk folders and confirm the account email address.
+
+Q: Why is login not working?
+A: Login problems can happen because of password issues, expired sessions, browser cache problems, or account access problems after an update. Confirm the exact login behavior before escalating.
+
+Q: Why am I not receiving a password reset email?
+A: Password reset emails may be delayed, filtered into spam or junk folders, or blocked by an incorrect account email address. Confirm the email address and expected send time.
+
+Q: How do I clear browser cache for login problems?
+A: Customers with browser-related login problems should clear browser cache and cookies, then retry login in a fresh session or another browser.
+
+Q: Why does the login page keep refreshing?
+A: A login page refresh loop may happen because of session issues, browser cache problems, or browser-specific behavior after an update. Confirm the browser, device, and exact login behavior before escalation.

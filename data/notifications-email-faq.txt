@@ -1,0 +1,16 @@
+Notifications and Email Delivery FAQ
+
+Q: Why am I not receiving email notifications?
+A: Email notifications may be delayed, filtered into spam or junk folders, disabled in notification settings, or sent to the wrong email address. Confirm the account email and notification settings first.
+
+Q: Why is my verification email missing?
+A: Verification emails may be delayed, filtered into spam or junk folders, or blocked by an incorrect account email address. Confirm the email address and expected send time.
+
+Q: Why did the reset email never arrive?
+A: Reset emails may be delayed, sent to spam or junk folders, or affected by an incorrect account email address. Confirm the email address and expected send time before escalating.
+
+Q: Why was my reminder email not received?
+A: Reminder emails may not arrive if notification settings are disabled, delivery is delayed, or the email was filtered. Confirm the reminder type, recipient email address, and expected send time.
+
+Q: Why are alerts not being sent?
+A: Alerts may not send if notification rules are disabled, the delivery channel is misconfigured, or email delivery is delayed. Confirm the alert settings and notification configuration.

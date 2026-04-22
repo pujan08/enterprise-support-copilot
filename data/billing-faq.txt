@@ -1,0 +1,16 @@
+Billing FAQ
+
+Q: Why was I charged twice?
+A: Duplicate billing charges can happen when a payment retry succeeds after an earlier pending attempt, when separate workspaces are billed individually, or when a subscription plan change overlaps with renewal billing. Review invoice IDs, workspace billing records, and payment timestamps before escalating.
+
+Q: Where can I find my invoice?
+A: Customers can review billing invoices in the billing portal. If an invoice is missing, confirm the correct workspace billing account is being checked.
+
+Q: Why did my payment fail?
+A: Billing payment failures may happen if the card is expired, the billing address is incorrect, or the bank declined the subscription charge. Confirm payment method details and retry if appropriate.
+
+Q: How do I cancel my subscription?
+A: Customers should confirm which workspace subscription they want to cancel before making billing changes. If cancellation is not reflected, collect subscription plan details and billing timing before escalation.
+
+Q: Why did my trial expire?
+A: Trial expiration usually happens when the trial period ends or when billing details were not completed in time. Confirm the workspace billing account and the exact trial dates.

@@ -1,0 +1,16 @@
+Invitations and Permissions FAQ
+
+Q: Why am I getting permission denied?
+A: Permission denied errors usually happen when the user does not have the correct workspace role, project access, or admin approval. Confirm the user role, workspace, and exact resource they are trying to access.
+
+Q: Why did the invited user not receive the email?
+A: Invite emails may be delayed, filtered into spam or junk folders, or sent to the wrong email address. Confirm the invited email address and resend the invitation if needed.
+
+Q: Why did the invitation link expire?
+A: Invitation links can expire after a time limit or after a newer invitation is sent. Resend the invitation and confirm the correct workspace and email address.
+
+Q: Why can’t a teammate join the workspace?
+A: A teammate may be blocked by an expired invite, incorrect workspace selection, missing role assignment, or account mismatch. Confirm the email address, workspace, and assigned role.
+
+Q: Why is the user role not updating?
+A: Role changes may not apply correctly if the workspace membership has not refreshed or if the wrong workspace is being checked. Confirm the workspace, current role, and expected role before escalation.

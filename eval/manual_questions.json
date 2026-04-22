@@ -1,0 +1,202 @@
+[
+  {
+    "id": "q1",
+    "question": "How do I log in?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q2",
+    "question": "I forgot my password. What should I do?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q3",
+    "question": "Why is login not working after I enter my password?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q4",
+    "question": "How do I clear my browser cache?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q5",
+    "question": "How do I change my spaceship warranty on Mars?",
+    "expected_has_context": false
+  },
+  {
+    "id": "q6",
+    "question": "How can I log in?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q7",
+    "question": "I can't log in to my account.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q8",
+    "question": "Login is not working.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q9",
+    "question": "Sign in is failing.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q10",
+    "question": "How do I reset my password?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q11",
+    "question": "I forgot my login password.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q12",
+    "question": "Why am I not receiving a password reset email?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q13",
+    "question": "Why does the login page keep refreshing?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q14",
+    "question": "How do I clear cache for this site?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q15",
+    "question": "Why am I getting stuck after sign in?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q16",
+    "question": "Can this app book hotel tickets for me?",
+    "expected_has_context": false
+  },
+  {
+    "id": "q17",
+    "question": "How do I repair my microwave with this SaaS tool?",
+    "expected_has_context": false
+  },
+  {
+    "id": "q18",
+    "question": "login problem",
+    "expected_has_context": true
+  },
+  {
+    "id": "q19",
+    "question": "password issue",
+    "expected_has_context": true
+  },
+  {
+    "id": "q20",
+    "question": "log in help",
+    "expected_has_context": true
+  },
+  {
+    "id": "q21",
+    "question": "Why was I charged twice?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q22",
+    "question": "My payment failed. What should I do?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q23",
+    "question": "I can't find my invoice.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q24",
+    "question": "How do I cancel my subscription?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q25",
+    "question": "refund request",
+    "expected_has_context": true
+  },
+  {
+    "id": "q26",
+    "question": "The invited user did not receive the email.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q27",
+    "question": "My invitation link expired.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q28",
+    "question": "Why am I getting permission denied?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q29",
+    "question": "I cannot access the workspace.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q30",
+    "question": "role issue",
+    "expected_has_context": true
+  },
+  {
+    "id": "q31",
+    "question": "I am not receiving email notifications.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q32",
+    "question": "Why is my verification email missing?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q33",
+    "question": "The reset email never arrived.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q34",
+    "question": "notification issue",
+    "expected_has_context": true
+  },
+  {
+    "id": "q35",
+    "question": "My reminder email was not received.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q36",
+    "question": "The app is very slow.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q37",
+    "question": "Why does the page keep loading forever?",
+    "expected_has_context": true
+  },
+  {
+    "id": "q38",
+    "question": "dashboard not loading",
+    "expected_has_context": true
+  },
+  {
+    "id": "q39",
+    "question": "I think the browser is freezing in the app.",
+    "expected_has_context": true
+  },
+  {
+    "id": "q40",
+    "question": "slow loading issue",
+    "expected_has_context": true
+  }
+]

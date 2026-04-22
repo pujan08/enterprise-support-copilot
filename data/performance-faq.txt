@@ -1,0 +1,16 @@
+Performance and Slow Loading FAQ
+
+Q: Why is the app very slow?
+A: Slow app behavior may happen because of browser cache issues, network delay, recent updates, or a page-specific performance problem. Confirm whether the slowdown affects one page or the whole app.
+
+Q: Why does the page keep loading forever?
+A: A page that keeps loading may be affected by browser cache, a timeout, a refresh loop, or a page-specific loading issue. Confirm the exact page and browser being used.
+
+Q: Why is the dashboard not loading?
+A: Dashboard loading problems may happen because of browser issues, session problems, timeouts, or recent updates. Confirm whether other pages load normally.
+
+Q: Why is the browser freezing in the app?
+A: Browser freezing may happen because of heavy page load, stale browser state, session problems, or browser-specific issues. Confirm the browser version, page name, and exact behavior.
+
+Q: Why is there a slow loading issue after an update?
+A: Slow loading after an update may indicate a cache issue, browser compatibility issue, or a page-specific performance regression. Confirm when the issue started and which pages are affected.

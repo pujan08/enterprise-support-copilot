@@ -1,0 +1,25 @@
+Support article: User invitations and permissions issues
+
+Customers may report user invitation and permissions problems such as:
+- invited user did not receive email
+- invitation link expired
+- cannot invite teammate
+- teammate cannot join workspace
+- user added to wrong workspace
+- permission denied
+- access denied
+- role not updating
+- admin access missing
+- member cannot see project
+- invited user stuck on accept invitation
+- user cannot access shared resources
+
+Recommended troubleshooting steps:
+1. Confirm the email address used for the invitation.
+2. Check whether the invited user looked in spam or junk folders.
+3. Confirm whether the invitation has expired and needs to be resent.
+4. Verify the correct workspace and role were selected.
+5. Ask an admin to review the user’s permissions and role assignment.
+6. If access is denied after joining, confirm whether the user has the correct project or workspace permissions.
+
+If the issue continues, collect the invited email address, workspace ID, role expected, and exact access error before escalation.

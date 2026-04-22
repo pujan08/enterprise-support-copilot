@@ -1,0 +1,25 @@
+Support article: Performance, slow loading, and browser issues
+
+Customers may report performance and loading problems such as:
+- app is slow
+- page keeps loading
+- dashboard not loading
+- page keeps spinning
+- browser freeze
+- timeout issue
+- slow response
+- lag in the app
+- screen takes too long to load
+- loading problem after update
+- browser issue
+- page refresh loop
+
+Recommended troubleshooting steps:
+1. Ask the customer to refresh the page and try again.
+2. Ask the customer to clear browser cache and cookies.
+3. Confirm which browser and device the customer is using.
+4. Ask whether the issue happens on one page or across the entire app.
+5. Ask the customer to try another browser or an incognito/private window.
+6. If the issue started after an update, collect the exact page name and time the issue began.
+
+If the issue continues, collect the browser version, device type, page name, and any error message before escalation.

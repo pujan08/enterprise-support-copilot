@@ -1,0 +1,26 @@
+Support article: Billing and subscription issues
+
+Customers may report billing and subscription problems such as:
+- charged twice
+- duplicate charge
+- invoice not available
+- payment failed
+- credit card declined
+- subscription did not renew
+- plan downgrade not reflected
+- plan upgrade not reflected
+- billing portal not loading
+- trial expired unexpectedly
+- auto-renew confusion
+- refund request
+- cancellation question
+
+Recommended troubleshooting steps:
+1. Confirm which workspace or account the billing issue is related to.
+2. Ask the customer to review the latest invoice and billing history.
+3. Confirm whether the payment method is valid and not expired.
+4. Ask whether the customer recently upgraded, downgraded, or canceled the plan.
+5. If there is a duplicate charge, collect invoice IDs and payment timestamps before escalating.
+6. If the billing portal is not loading, ask the customer to refresh, try another browser, or clear cache.
+
+If billing behavior looks incorrect, collect invoice details, subscription plan, workspace ID, and payment timing before escalation.

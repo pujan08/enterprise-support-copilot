@@ -1,0 +1,25 @@
+Support article: Notifications and email delivery issues
+
+Customers may report notification and email delivery problems such as:
+- not receiving email
+- notification not received
+- verification email missing
+- reset email missing
+- invite email not arriving
+- email delayed
+- email went to spam
+- notification settings not working
+- alerts not sending
+- reminder email not received
+- digest email missing
+- email delivery issue
+
+Recommended troubleshooting steps:
+1. Ask the customer to check spam, junk, and promotions folders.
+2. Confirm the email address on the account is correct.
+3. Ask whether email notifications are enabled in notification settings.
+4. Confirm whether the message was delayed or never arrived.
+5. If only one type of email is missing, identify whether it is a verification, reset, reminder, invite, or digest email.
+6. If needed, collect the approximate send time and recipient address before escalation.
+
+If the issue continues, collect the account email, notification type, workspace if relevant, and expected send time before escalation.
