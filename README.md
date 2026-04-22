@@ -6,7 +6,7 @@ This project was created as a hands-on learning build to explore how modern AI a
 
 ## Architecture Diagram
 
-![Enterprise Support Copilot Architecture](screenshots/architecture-diagram.png)
+![Enterprise Support Copilot Architecture](architecture-diagram.png)
 
 The copilot is designed to answer support questions related to:
 
